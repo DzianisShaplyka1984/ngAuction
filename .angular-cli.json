@@ -19,7 +19,8 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "nga",
       "styles": [
-        "styles.scss"
+        "styles/styles.scss",
+        "styles/_theme.scss"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
