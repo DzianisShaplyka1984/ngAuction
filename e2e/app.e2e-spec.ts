@@ -1,10 +1,10 @@
-import { NgAuctionPage } from './app.po';
+import { AppPage } from './app.po';
 
 describe('ng-auction App', () => {
-  let page: NgAuctionPage;
+  let page: AppPage;
 
   beforeEach(() => {
-    page = new NgAuctionPage();
+    page = new AppPage();
   });
 
   it('should display welcome message', () => {
